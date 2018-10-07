@@ -1,15 +1,21 @@
 body {
     display: block;
     max-width: 1024px;
-    box-align: center;
+    margin: 0 auto;
 }
 
-h1 {
-    color: rgb(144, 12, 63);
+h1, h2, h3 {
+    color: rgb(8, 6, 109);
+}
+
+.info p {
+   color: blue;
+   font-weight: bold;
+   font-size: 12;
+
 }
 
 img {
     width: 150px;
     height: 180px;
-    float: left;
-}
+    }
