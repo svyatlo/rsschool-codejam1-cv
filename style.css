@@ -1,0 +1,15 @@
+body {
+    display: block;
+    max-width: 1024px;
+    box-align: center;
+}
+
+h1 {
+    color: rgb(144, 12, 63);
+}
+
+img {
+    width: 150px;
+    height: 180px;
+    float: left;
+}
